@@ -10,7 +10,8 @@ class Realty:
         return "\nCity: {}, price: {}".format(self.city,self.price)
 
     #def info():
-        
+
+#the second one for github
 if __name__=='__main__':
     one1=Realty(1,40,50000,'Kiev')
 
