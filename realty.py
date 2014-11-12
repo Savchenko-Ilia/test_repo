@@ -1,3 +1,4 @@
+#comment fot github test
 class Realty:
     def __init__(self, n_rooms, area_m2, price, city):
         self.n_rooms=n_rooms
